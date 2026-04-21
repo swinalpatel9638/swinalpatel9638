@@ -13,6 +13,5 @@ Writing cleaner, scalable, and maintainable code
 Preparing for front-end developer roles & internships
 
 🤝 Connect With Me
-📧 swinalpatel9638@gmail.com
 💼 LinkedIn: www.linkedin.com/in/swinal-patel-b74b421b0
 
