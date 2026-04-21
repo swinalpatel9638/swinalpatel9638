@@ -1,12 +1,18 @@
-## About Me👋
+Hi, I'm Swinal Patel
+
+🚀 Aspiring Front-End Developer (React) | 🎓 Graduating May 2026 | 📍 Allentown, PA
+
+I build responsive, user-focused web applications using modern frontend technologies.
+My focus is turning ideas into clean, functional, and production-ready UI experiences.
 
 
+📈 Current Focus
+Deepening React & JavaScript fundamentals
+Building portfolio projects that solve real problems
+Writing cleaner, scalable, and maintainable code
+Preparing for front-end developer roles & internships
 
-
-- 🔭 I’m currently working on learning CSS advanced, Node JS, React JS
-- 👯 I’m looking to collaborate on ..freelancing mini projects as front end developer.
-- 🤔 I’m looking for help with designing and layouts
-- 😇 My hobbies are reading, writing, travelling, yoga, cooking.
-- 😄 Pronouns: She/Her
-  
+🤝 Connect With Me
+📧 swinalpatel9638@gmail.com
+💼 LinkedIn: www.linkedin.com/in/swinal-patel-b74b421b0
 
